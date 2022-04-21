@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X8IAaZ+UailnLUIJAtWf+ptB+2V2ofG9NcTXG8UKuri67NK82UsknF/pvpdIBCnF2PlZoYrIFisV/3+WFIav0A==",
+  "dgSpecHash": "4MApviw4VVF8DMnFMoCWVfNDp+cKdEqlYHl7kVw/TNq91oYAmRIX/5i3FwujYkSZZkkewGx85Bb8eQm6FcOKSw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\ERP-Service\\ERPService.csproj",
+  "projectFilePath": "C:\\Projetos\\ERPService\\ERPService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

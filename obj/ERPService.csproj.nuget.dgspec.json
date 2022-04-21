@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\ERP-Service\\ERPService.csproj": {}
+    "C:\\Projetos\\ERPService\\ERPService.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\ERP-Service\\ERPService.csproj": {
+    "C:\\Projetos\\ERPService\\ERPService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\ERP-Service\\ERPService.csproj",
+        "projectUniqueName": "C:\\Projetos\\ERPService\\ERPService.csproj",
         "projectName": "ERPService",
-        "projectPath": "C:\\Projetos\\ERP-Service\\ERPService.csproj",
+        "projectPath": "C:\\Projetos\\ERPService\\ERPService.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\ERP-Service\\obj\\",
+        "outputPath": "C:\\Projetos\\ERPService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
